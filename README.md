@@ -55,5 +55,13 @@ Make sure you have the following installed:
 
 ![Login / Signup Screen](./client/src/assets/zxc.png)
 
+![Login / Signup Screen](./client/src/assets/zxcv.png)
+
+![Login / Signup Screen](./client/src/assets/zxcvb.png)
+
+![Login / Signup Screen](./client/src/assets/asd.png)
+
+![Login / Signup Screen](./client/src/assets/qwe.png)
+
 
 
