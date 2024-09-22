@@ -53,6 +53,7 @@ Make sure you have the following installed:
    npm install
 
 
-   ![Login /Signup Screen](./src/assets/zxc.png)
+![Login / Signup Screen](./client/src/assets/zxc.png)
+
 
 
