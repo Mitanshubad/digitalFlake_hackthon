@@ -1,7 +1,7 @@
 # DigitalFlake Hackthon Task
 
 ## Overview
-This project is a full-stack application built with React for the client-side and Node.js with TypeScript for the server-side. 
+This project is a full-stack application built with React+Typescript for the client-side and Node.js with TypeScript for the server-side. 
 
 ## Project Structure
 
